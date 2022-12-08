@@ -1,0 +1,135 @@
+body{
+background-color: #B3A2D9;
+font-family: Century Gothic;
+}
+form {
+text-align: center;
+}
+input{
+	font-family: Century Gothic;
+	font-size: 17px;
+}
+#DV1{
+font-family: Century Gothic;
+border: none;
+background-color: #6A4FA8;
+color: white;
+font-size: 17px;
+}
+table{
+	text-align: center;
+background-color: white;
+font-size: 22px;
+width: 75%;
+padding: 5;
+margin-left: auto;
+margin-right: auto;
+}
+#p1{
+	text-align: center;
+	font-size: 25px;
+}
+#p3{
+	text-align: center;
+	font-size: 15px;
+}
+th{
+background-color: #6A4FA8;
+color: white;
+
+}
+tr:nth-child(odd) {
+background-color: #E5DEF6;
+}
+tr{
+background-color: #DACEF5;
+}
+span {
+  font-weight: 300;
+  color: #6340B1;
+	}
+#pe{
+	text-align: center;
+}
+	
+
+
+	.mlogin {
+   margin: 170px auto 0;
+   font-size: 25px;
+   text-align: center;
+	}
+
+	.mregister {
+  margin: 80px auto 0;
+  text-align: center;
+	}
+
+	.regtext {
+	text-align: center;
+  font-size: 15px;
+  margin-top: 26px;
+  color: #6947B3;
+	}
+	
+	/*= КОНТЕЙНЕРЫ
+	--------------------------------------------------------*/
+	.container {
+	padding: 25px 16px 25px 10px;
+	font-weight: 400;
+	overflow: hidden;
+	width: 350px;
+	height: auto;
+	background: #E7E1F4;
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.13);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.13);
+	box-shadow: 0 1px 3px rgba(0,0,0,.13);
+	}
+	
+	#welcome {
+	width: 500px;
+	padding: 30px;
+	background: #E7E1F4;
+	margin: 160px auto 0;
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.13);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.13);
+   box-shadow: 0 1px 3px rgba(0,0,0,.13);
+	}
+	
+	.container h1 {
+		
+	color: #6947B3;
+	text-align: center;
+	font-weight: 300;
+   border: 1px dashed #777;
+   margin-top: 13px;
+	}
+  
+	.container label {
+	color: #6947B3;
+	font-size: 17px;
+	}
+
+	#login {
+  width: 320px;
+	margin: auto;
+	padding-bottom: 15px;
+	}
+
+	.container form .input,.container input[type=text],.container input[type=password],.container input[type=e] {
+	background: white;
+	font-size: 24px;
+	line-height: 1;
+	width: 100%;
+	padding: 3px;
+  margin: 0 6px 5px 0;
+  outline: none;
+  border: 1px solid #d9d9d9;
+	}
+	
+	.container form .input:focus {
+	border: 1px solid #f58220;
+  -webkit-box-shadow: 0 0 3px 0 rgba(245,130,32,0.75);
+  -moz-box-shadow: 0 0 3px 0 rgba(245,130,32,0.75);
+  box-shadow: 0 0 3px 0 rgba(245,130,32,0.75);
+	}*/
